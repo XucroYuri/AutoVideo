@@ -368,3 +368,8 @@ This project is licensed under the [MIT License](LICENSE).
   <b>Pilipili-AutoVideo · 噼哩噼哩</b> · Local Deployment · Fully Automated AI Video Agent<br/>
   If this project helps you, please give it a ⭐ Star!
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XucroYuri/AutoVideo&type=Date)](https://star-history.com/#XucroYuri/AutoVideo&Date)
+
