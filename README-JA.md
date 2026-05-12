@@ -248,3 +248,8 @@ A: 生成完了後、ドラフトプロジェクトは `data/outputs/{project_id
   <b>噼哩噼哩 Pilipili-AutoVideo</b> · ローカルデプロイ · 完全自動化 AI 動画エージェント<br/>
   このプロジェクトが役に立ったら、⭐ Star をお願いします！
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XucroYuri/AutoVideo&type=Date)](https://star-history.com/#XucroYuri/AutoVideo&Date)
+
