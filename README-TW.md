@@ -249,3 +249,8 @@ A: 生成完成後，草稿工程位於 `data/outputs/{project_id}/draft/`，將
   <b>噼哩噼哩 Pilipili-AutoVideo</b> · 本地部署 · 全自動 AI 影片代理<br/>
   如果這個專案對你有幫助，請給一個 ⭐ Star！
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XucroYuri/AutoVideo&type=Date)](https://star-history.com/#XucroYuri/AutoVideo&Date)
+
